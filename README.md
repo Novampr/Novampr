@@ -1,4 +1,3 @@
-Hello there! I am DiveaLism or you may know me as "DevLime" or maybe "Lime"
-You may only refer to me as DiveaLism or Lime
+Hello there! I am DiveaLism or you may know me as Lime!
 
-I am a developer at Vanquish Studios!
+I am currently working on Crimson and CrimsonGUI and am the co-ceo of Crimson Creative Studios
