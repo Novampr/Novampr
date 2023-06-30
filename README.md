@@ -1,3 +1,5 @@
-Hello there! I am Divea!
+Hello world!
 
-I am currently working on Crimson and CrimsonGUI and am the co-ceo of Crimson Creative Studios
+I am Nova, the main developer of Crimson and CrimsonGUI
+
+Check out [Crimson Creative Studios](https://github.com/Crimson-Creative-Studios)!
