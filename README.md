@@ -1,5 +1,11 @@
 Hello world!
 
-I am Nova, the main developer of Crimson and CrimsonGUI
+```java
+public class Nova {
+    public static String name = "Nova";
+    public static int age = 16;
+    public static Gender gender = Gender.FEMALE;
+}
+```
 
-Check out [Crimson Creative Studios](https://github.com/Crimson-Creative-Studios)!
+Hopefully you know java, anyway I do development funnies
