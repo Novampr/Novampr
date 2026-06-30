@@ -1,8 +1,8 @@
 ```java
 public class Me {
-    public static String username = "Aurorawr";
+    public static String username = "Auri";
     public static String name = "Nova";
-    public static int age = 17;
+    public static int age = 18;
     public static Gender gender = Gender.FEMALE;
 }
 ```
